@@ -1,7 +1,3 @@
-
-### ETHICS.md
-
-```markdown
 # Ethics Considerations for CryptoImpact-Analyzer
 
 ## Purpose
@@ -19,3 +15,9 @@ The findings of this analysis should be used responsibly. Users should be aware 
 
 ## Conclusion
 This project seeks to promote a better understanding of market dynamics influenced by news sentiment while adhering to ethical data practices.
+
+Feel free to modify this draft to better fit your project's specific context and requirements!
+
+Citations:
+[1] https://pplx-res.cloudinary.com/image/upload/v1727036410/user_uploads/sdfccctzs/Screenshot-2024-09-22-at-4.19.19-PM.jpg
+[2] https://pplx-res.cloudinary.com/image/upload/v1727036410/user_uploads/saiserlra/Screenshot-2024-09-22-at-4.19.08-PM.jpg
