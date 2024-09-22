@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: pandaa
+Version: 1.0.1
+Summary: A placeholder project to demonstrate piip
+Author: TNO Software and System Security
+License: Apache License, Version 2.0
+Project-URL: Homepage, https://pypi.org/project/PIIP/
+Platform: any
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 6 - Mature
+Classifier: Topic :: Security
+Requires-Python: >=3.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# pandaa
+
+This package serves as an example to the [piip](https://pypi.org/project/PIIP/) package. If you accidentally installed this package (for example, when trying to install pandas), nothing bad has happened. As can be seen in the source of this package, no code is executed.
