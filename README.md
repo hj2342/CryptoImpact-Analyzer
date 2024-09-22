@@ -1,4 +1,4 @@
-# Crypto News Impact Analysis
+# CryptoImpact-Analyzer
 
 This project analyzes the impact of news on cryptocurrency prices by combining data from CoinGecko and web-scraped dates from a news website.
 
